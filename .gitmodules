@@ -1,0 +1,9 @@
+[submodule "part-2"]
+	path = part-2
+	url = git@github.com:KiriamBlu/part-2.git
+[submodule "part-3"]
+	path = part-3
+	url = git@github.com:KiriamBlu/part-3.git
+[submodule "part-1"]
+	path = part-1
+	url = git@github.com:KiriamBlu/part-1.git
