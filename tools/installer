@@ -1,0 +1,10 @@
+
+git clone --recurse-submodules git@github.com:KiriamBlu/F_try.git
+
+git clone git@github.com:KiriamBlu/part-1.git
+git clone git@github.com:KiriamBlu/part-2.git
+git clone git@github.com:KiriamBlu/part-3.git
+
+echo "alias start_service=''" >> ~/.bashrc
+echo "alias stop_service=''" >> ~/.bashrc
+
